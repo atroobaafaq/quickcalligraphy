@@ -1,0 +1,125 @@
+body{
+    background-color: rgb(233, 225, 214);
+    
+}
+.navbar{
+    background-color:rgb(114, 68, 25);
+}
+.navbar-brand{
+    color:rgb(248, 237, 222) ;
+    font-family: "Dancing Script";
+}
+.nav-link{
+color: white;
+}
+#bg{
+    background-color: rgb(85, 58, 33);
+    color: white;
+    height: 200px;
+}
+.text-color{
+    color:rgb(114, 68, 25) ;
+}
+h1{
+   font-family: "Dancing Script";
+    font-size: 50px;
+}
+h2{
+    font-family: "Protest Strike", serif;
+}
+.circle-img{
+    height: 250px;
+}
+#icons{
+    font-size: 30px;
+}
+#border{
+    width: 100%;
+    background-color:rgb(114, 68, 25) ;
+}
+.names{
+    font-family: "Dancing Script";
+    color:rgb(155, 138, 115) ;
+    margin-top: 10px;
+}
+.under{
+    color: rgb(250, 211, 160);
+}
+#color{
+    background-color: rgb(114, 68, 25);
+    width: 100%;
+}
+.tick{
+    color: rgb(85, 58, 33);
+}
+.tick1{
+    color: rgb(7, 15, 121);
+}
+
+.container {
+    Max-width: 1200px;
+    Padding: 2rem;
+    }
+    
+    .card {
+    Background-color:white;
+    Border: 1px solid rgb(202, 186, 186);
+    Border-radius: 30px;
+    Padding: 1rem;
+    Margin-bottom: 2rem;
+    Box-shadow: 10px rgba(0, 0, 0, 0.1);
+    }
+    
+    .card-header {
+    Background-color:rgb(114, 68, 25);
+    Color: white;
+    Padding: 1rem;
+    }
+    
+    .btn-link {
+    Color: white;
+    Text-decoration: none;
+    }
+    
+    .btn-link:hover {
+    Color:white;
+    }
+    
+    .display-3 {
+    Margin-bottom: 1rem;
+    }
+    
+    .lead {
+    
+    
+    Margin-bottom: 2rem;
+    }
+    
+    .faq-question {
+    Margin-bottom: 1rem;
+    }
+    
+    .faq-answer {
+    Color:rgb(61, 61, 61);
+    Margin-bottom: 2rem;
+    }
+    
+    .card {
+        Transition: box-shadow 0.20s ease-in-out;
+    }
+    
+    .card:hover {
+        Box-shadow: 0px 10px 10px rgb(114, 68, 25);
+    }
+    #circle{
+        border-radius: 7px;
+        border-bottom-right-radius: 20px;
+        border-top-left-radius: 20px;
+        filter: blur(2px);
+    
+    }
+    #circle:hover {
+             filter: blur(0px);
+             transform: rotate(3deg);
+    }
+     
